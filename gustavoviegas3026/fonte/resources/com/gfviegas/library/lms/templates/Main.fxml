@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import com.jfoenix.controls.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="anchorPane" prefHeight="720.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.gfviegas.library.lms.MainView">
+   <children>
+      <AnchorPane fx:id="pageContentPane" prefHeight="720.0" prefWidth="1280.0" />
+      <JFXHamburger fx:id="hamburger" layoutX="1236.0" layoutY="14.0" onMouseClicked="#hamburgerClicked" />
+      <JFXDrawer fx:id="drawer" defaultDrawerSize="400.0" prefHeight="720.0" prefWidth="400.0" />
+   </children>
+</AnchorPane>

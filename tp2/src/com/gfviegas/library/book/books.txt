@@ -1,0 +1,299 @@
+{
+  "books": [
+    {
+      "name": "Don Quixote",
+      "authors": [
+        "Miguel de Cervantes"
+      ],
+      "year": 1612,
+      "ISBN": 9781234567890,
+      "dimensions": {
+        "width": 13,
+        "height": 19
+      },
+      "edition": 5,
+      "publisher": "Casper-Macejkovic"
+    },
+    {
+      "name": "Um Conto de Duas Cidades",
+      "authors": [
+        "Charles Dickens"
+      ],
+      "year": 1859,
+      "ISBN": 9781234567891,
+      "dimensions": {
+        "width": 13,
+        "height": 19
+      },
+      "edition": 20,
+      "publisher": "Erdman Inc"
+    },
+    {
+      "name": "O Senhor dos Anéis",
+      "authors": [
+        "J. R. R. Tolkien"
+      ],
+      "year": 1954,
+      "ISBN": 9781234567892,
+      "dimensions": {
+        "width": 13,
+        "height": 19
+      },
+      "edition": 16,
+      "publisher": "Champlin-Eichmann"
+    },
+    {
+      "name": "O Pequeno Príncipe",
+      "authors": [
+        "Antoine de Saint Exupéry"
+      ],
+      "year": 1943,
+      "ISBN": 9781234567893,
+      "dimensions": {
+        "width": 15,
+        "height": 21
+      },
+      "edition": 5,
+      "publisher": "Wiza LLC"
+    },
+    {
+      "name": "Harry Potter e a Pedra Filosofal",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "year": 1997,
+      "ISBN": 9781234567894,
+      "dimensions": {
+        "width": 15,
+        "height": 20
+      },
+      "edition": 2,
+      "publisher": "Anderson-Powlowski"
+    },
+    {
+      "name": "O Hobbit",
+      "authors": [
+        "J. R. R. Tolkien"
+      ],
+      "year": 1937,
+      "ISBN": 9781234567895,
+      "dimensions": {
+        "width": 13,
+        "height": 20
+      },
+      "edition": 1,
+      "publisher": "Berge, Dickens and Collier"
+    },
+    {
+      "name": "O Caso dos Dez Negrinhos",
+      "authors": [
+        "Agatha Christie"
+      ],
+      "year": 1939,
+      "ISBN": 9781234567896,
+      "dimensions": {
+        "width": 13,
+        "height": 20
+      },
+      "edition": 21,
+      "publisher": "Bahringer-Pfannerstill"
+    },
+    {
+      "name": "O Sonho da Câmara Vermelha",
+      "authors": [
+        "Cao Xueqin"
+      ],
+      "year": 1754,
+      "ISBN": 9781234567897,
+      "dimensions": {
+        "width": 14,
+        "height": 19
+      },
+      "edition": 10,
+      "publisher": "Sauer-Franecki"
+    },
+    {
+      "name": "Ela, a Feiticeira",
+      "authors": [
+        "H. Rider Haggard"
+      ],
+      "year": 1887,
+      "ISBN": 9781234567898,
+      "dimensions": {
+        "width": 14,
+        "height": 19
+      },
+      "edition": 18,
+      "publisher": "Witting-Wyman"
+    },
+    {
+      "name": "O Leão, a Feiticeira e o Guarda-Roupa",
+      "authors": [
+        "C. S. Lewis"
+      ],
+      "year": 1950,
+      "ISBN": 9181224564888,
+      "dimensions": {
+        "width": 13,
+        "height": 20
+      },
+      "edition": 20,
+      "publisher": "Block-Tremblay"
+    },
+    {
+      "name": "O Código Da Vinci",
+      "authors": [
+        "Dan Brown"
+      ],
+      "year": 2003,
+      "ISBN": 9181224564891,
+      "dimensions": {
+        "width": 15,
+        "height": 19
+      },
+      "edition": 2,
+      "publisher": "Tillman and Sons"
+    },
+    {
+      "name": "Pense e Enriqueça",
+      "authors": [
+        "Napoleon Hill"
+      ],
+      "year": 1937,
+      "ISBN": 9181224564893,
+      "dimensions": {
+        "width": 15,
+        "height": 20
+      },
+      "edition": 9,
+      "publisher": "Haag Group"
+    },
+    {
+      "name": "Harry Potter e o Enigma do Príncipe",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "year": 2005,
+      "ISBN": 9181224564894,
+      "dimensions": {
+        "width": 15,
+        "height": 19
+      },
+      "edition": 5,
+      "publisher": "Cassin, Rowe and Runolfsdottir"
+    },
+    {
+      "name": "O Alquimista",
+      "authors": [
+        "Paulo Coelho"
+      ],
+      "year": 1988,
+      "ISBN": 9181224564844,
+      "dimensions": {
+        "width": 14,
+        "height": 20
+      },
+      "edition": 11,
+      "publisher": "Wisoky, Feil and Stanton"
+    },
+    {
+      "name": "O Apanhador no Campo de Centeio",
+      "authors": [
+        "J. D. Salinger"
+      ],
+      "year": 1951,
+      "ISBN": 9181224564842,
+      "dimensions": {
+        "width": 14,
+        "height": 20
+      },
+      "edition": 22,
+      "publisher": "Olson Group"
+    },
+    {
+      "name": "Harry Potter e a Câmara Secreta",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "year": 1998,
+      "ISBN": 9181224564843,
+      "dimensions": {
+        "width": 15,
+        "height": 21
+      },
+      "edition": 8,
+      "publisher": "Greenfelder and Sons"
+    },
+    {
+      "name": "Harry Potter e o Prisioneiro de Azkaban",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "year": 1998,
+      "ISBN": 9181224564823,
+      "dimensions": {
+        "width": 13,
+        "height": 19
+      },
+      "edition": 2,
+      "publisher": "Kutch, Morar and Jakubowski"
+    },
+    {
+      "name": "Harry Potter e o Cálice de Fogo",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "year": 2000,
+      "ISBN": 9181224564822,
+      "dimensions": {
+        "width": 13,
+        "height": 19
+      },
+      "edition": 7,
+      "publisher": "Ritchie LLC"
+    },
+    {
+      "name": "Harry Potter e a Ordem da Fênix",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "year": 2003,
+      "ISBN": 9181224564820,
+      "dimensions": {
+        "width": 15,
+        "height": 19
+      },
+      "edition": 11,
+      "publisher": "Durgan LLC"
+    },
+    {
+      "name": "Harry Potter e as Relíquias da Morte",
+      "authors": [
+        "J. K. Rowling"
+      ],
+      "year": 2007,
+      "ISBN": 9181224564810,
+      "dimensions": {
+        "width": 15,
+        "height": 20
+      },
+      "edition": 4,
+      "publisher": "Stoltenberg Inc"
+    },
+    {
+      "name": "Cem Anos de Solidão",
+      "authors": [
+        "Gabriel García Márquez"
+      ],
+      "year": 1967,
+      "ISBN": 9181224564801,
+      "dimensions": {
+        "width": 14,
+        "height": 21
+      },
+      "edition": 8,
+      "publisher": "Bode, O'Kon and Marquardt"
+    }
+  ]
+}
+

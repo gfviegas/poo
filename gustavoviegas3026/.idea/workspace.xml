@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="library" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/gfviegas/library/lms/Main.java" line="36" mnemonic="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="593642847">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="fxml" value="43" />
+          <entry key="html" value="1" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="219" />
+          <entry key="jpg" value="2" />
+          <entry key="json" value="23" />
+          <entry key="png" value="2" />
+          <entry key="xsl" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="Image" value="4" />
+          <entry key="JAVA" value="219" />
+          <entry key="JSON" value="23" />
+          <entry key="XML" value="44" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="23" />
+          <entry key="fxml" value="226" />
+          <entry key="java" value="24106" />
+          <entry key="json" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="24106" />
+          <entry key="JSON" value="12" />
+          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="XML" value="226" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/user/UserDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="37" column="39" lean-forward="true" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Interface" />
+        <option value="XSLT Stylesheet" />
+        <option value="FxmlFile" />
+        <option value="Singleton" />
+        <option value="Class" />
+        <option value="module-info" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>booksh</find>
+      <find>findBook</find>
+      <find>AuthService</find>
+      <find>AuthSer</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/com/gfviegas/library</dir>
+      <dir>$PROJECT_DIR$/src/com/gfviegas/library/lms</dir>
+    </dirStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/book/Book.java" />
+        <option value="$PROJECT_DIR$/src/book/BookDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/sample.fxml" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/login/LoginBck.fxml" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/main.fxml" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/login/Login.fxml" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/login/Login.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/user/users.json" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/Login.fxml" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/Home.fxml" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/DrawerMenu.fxml" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/Content.fxml" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/HomeView.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/ViewInterface.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/Welcome.fxml" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/Welcome.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/Main.fxml" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/user/AuthController.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/resources/templates/Login.fxml" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/templates/Login.fxml" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/AuthService.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/book/books.json" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/loan/LoanDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/templates/Loans.fxml" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/templates/Books.fxml" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/stock/Stock.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/book/stock.json" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/book/StockDAO.java" />
+        <option value="$PROJECT_DIR$/resources/com/gfviegas/library/lms/templates/Login.fxml" />
+        <option value="$PROJECT_DIR$/resources/com/gfviegas/library/lms/templates/DrawerMenu.fxml" />
+        <option value="$PROJECT_DIR$/resources/com/gfviegas/library/lms/templates/Profile.fxml" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/Address.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/user/User.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/book/BookController.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/user/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/user/AuthService.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/loan/LoanController.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/stock/StockDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/loan/Loan.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/book/BookDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/book/Book.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/BaseView.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/LoginView.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/LoansView.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/DrawerMenu.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/BooksView.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/MainView.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/ProfileView.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/WelcomeView.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/library/lms/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="PackagesPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="library" type="58d84e3e:PackageViewProjectNode" />
+              <item name="library" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="library" type="58d84e3e:PackageViewProjectNode" />
+              <item name="library" type="616d4139:PackageViewModuleNode" />
+              <item name="com.gfviegas.library" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="library" type="58d84e3e:PackageViewProjectNode" />
+              <item name="library" type="616d4139:PackageViewModuleNode" />
+              <item name="com.gfviegas.library" type="1f31426a:PackageElementNode" />
+              <item name="book" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="library" type="58d84e3e:PackageViewProjectNode" />
+              <item name="library" type="616d4139:PackageViewModuleNode" />
+              <item name="com.gfviegas.library" type="1f31426a:PackageElementNode" />
+              <item name="lms" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="library" type="58d84e3e:PackageViewProjectNode" />
+              <item name="library" type="616d4139:PackageViewModuleNode" />
+              <item name="com.gfviegas.library" type="1f31426a:PackageElementNode" />
+              <item name="loan" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="library" type="58d84e3e:PackageViewProjectNode" />
+              <item name="library" type="616d4139:PackageViewModuleNode" />
+              <item name="com.gfviegas.library" type="1f31426a:PackageElementNode" />
+              <item name="stock" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="library" type="58d84e3e:PackageViewProjectNode" />
+              <item name="library" type="616d4139:PackageViewModuleNode" />
+              <item name="com.gfviegas.library" type="1f31426a:PackageElementNode" />
+              <item name="user" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="library" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="library" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="library" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="library" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+              <item name="lms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="library" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="library" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="library" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+              <item name="lms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="library" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="library" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="library" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539570428366" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/com/gfviegas/library/lms/images" />
+      <recent name="$PROJECT_DIR$/resources/com/gfviegas/library/lms/templates" />
+      <recent name="$PROJECT_DIR$/resources/com/gfviegas/library/user" />
+      <recent name="$PROJECT_DIR$/resources/com/gfviegas/library/stock" />
+      <recent name="$PROJECT_DIR$/resources/com/gfviegas/library/book" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gfviegas.library.lms" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/com/gfviegas/library/lms/templates" />
+      <recent name="$PROJECT_DIR$/src/com/gfviegas/library/lms/templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.gfviegas.library.lms.Main" />
+      <module name="library" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gfviegas.library.lms.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaFXApp.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/JavaFXApp/JavaFXApp.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="library.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/library/library.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JAR Application.JavaFXApp.jar" />
+      <item itemvalue="JAR Application.library.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.library.jar" />
+        <item itemvalue="JAR Application.JavaFXApp.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1538436226429" duration="21482000" />
+      <workItem from="1538574381673" duration="2636000" />
+      <workItem from="1538581826400" duration="7136000" />
+      <workItem from="1538674052709" duration="944000" />
+      <workItem from="1538747555855" duration="12291000" />
+      <workItem from="1539035159293" duration="13308000" />
+      <workItem from="1539108005680" duration="2294000" />
+      <workItem from="1539110899796" duration="10334000" />
+      <workItem from="1539564343926" duration="1338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="73065000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" sideWeight="0.6703755" visible="true" weight="0.24760383" />
+      <window_info id="Structure" order="5" weight="0.25" />
+      <window_info id="Favorites" order="6" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.32746115" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Application Servers" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Problems" order="12" />
+      <window_info anchor="bottom" id="Changes" order="13" />
+      <window_info anchor="bottom" id="Profiler" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" weight="0.32970297" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.32642487" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="right" id="JetGradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.32960597" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/lms/login/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/lms/login/Login.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/lms/login/LoginBck.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/lms/Content.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/user/AuthedUser.java" />
+    <entry file="file://$PROJECT_DIR$/resources/com/gfviegas/library/lms/images/icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/com/gfviegas/library/lms/images/bookshelf.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/lms/templates/Books.xsl" />
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/Author.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/javafx.controls/javafx/scene/control/TableColumn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="592" selection-start-line="592" selection-end-line="592" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/GestaoEstoque/src/br/ufv/caf/gestaoestoque/visao/TelaProduto.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/GestaoEstoque/src/br/ufv/caf/gestaoestoque/modelo/Produto.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/GestaoEstoque/src/br/ufv/caf/gestaoestoque/controle/ControleProduto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="948">
+          <caret line="72" column="4" lean-forward="true" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/loan/LoanDAO.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/stock/Stock.java" />
+    <entry file="file://$USER_HOME$/IdeaProjects/tutorial/src/fizzy/Maquina.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-680" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/JavaFXApp/JavaFXApp.html" />
+    <entry file="file://$PROJECT_DIR$/library.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="157" selection-start-line="157" selection-end-line="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/com/gfviegas/library/stock/stock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/com/gfviegas/library/book/books.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/com/gfviegas/library/lms/templates/Welcome.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/com/gfviegas/library/lms/templates/Main.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/com/gfviegas/library/lms/templates/Loans.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/com/gfviegas/library/lms/templates/Books.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-297">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/com/gfviegas/library/lms/templates/Login.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/com/gfviegas/library/lms/templates/DrawerMenu.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-372">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/com/gfviegas/library/lms/templates/Profile.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/module-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/user/UserController.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/user/AuthService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/user/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/stock/StockDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/loan/Loan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/lms/BaseView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/lms/DrawerMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="129" selection-start-line="22" selection-start-column="129" selection-end-line="22" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/lms/LoginView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="78" column="7" lean-forward="true" selection-start-line="75" selection-start-column="4" selection-end-line="78" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/lms/BooksView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="883">
+          <caret line="178" column="48" lean-forward="true" selection-start-line="178" selection-start-column="48" selection-end-line="178" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/book/BookDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/book/BookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/book/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="71" column="48" lean-forward="true" selection-start-line="71" selection-start-column="48" selection-end-line="71" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/loan/LoanController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/lms/ProfileView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="49" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/lms/LoansView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="31" column="3" lean-forward="true" selection-start-line="29" selection-end-line="31" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/lms/MainView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-365">
+          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/lms/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/com/gfviegas/library/user/users.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/lms/WelcomeView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="113" selection-start-line="15" selection-start-column="113" selection-end-line="15" selection-end-column="113" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/lms/ViewInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/library/user/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="37" column="39" lean-forward="true" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="library" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>com.jfoenix:jfoenix:9.0.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

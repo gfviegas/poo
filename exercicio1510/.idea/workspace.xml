@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f995819a-8585-443d-b79d-10c37b574044" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="842842588">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="56" />
+          <entry key="java" value="2312" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2312" />
+          <entry key="PLAIN_TEXT" value="56" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/gfviegas/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/HourlyTeacher.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/EffectiveTeacher.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/WorkJourney.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/JornadaTrabalho.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/Professor.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/ProfessorEfetivo.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/ProfessorHorista.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/ex1/ProfessorHorista.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/ex2/Veiculo.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/ex2/Onibus.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/ex2/Caminhao.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/ex3/BemPatriomonial.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/ex3/Situacao.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/ex3/Especie.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/ex3/BemMovel.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/ex3/BemSemovente.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/ex3/BemImovel.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/ex3/Especie2.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/ex3/composicao/Especie2.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/ex3/heranca/BemImovel.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/ex3/composicao/BemPatriomonial.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/ex3/composicao/BemImovel.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/ex3/composicao/BemMovel.java" />
+        <option value="$PROJECT_DIR$/src/com/gfviegas/ex3/composicao/BemSemovente.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="exercicio1510" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercicio1510" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercicio1510" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercicio1510" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercicio1510" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercicio1510" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gfviegas" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539610945771" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/gfviegas/ex3/composicao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gfviegas.ex3" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.gfviegas.ex3" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.gfviegas.ex1.Main" />
+      <module name="exercicio1510" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f995819a-8585-443d-b79d-10c37b574044" name="Default Changelist" comment="" />
+      <created>1539608037608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539608037608</updated>
+      <workItem from="1539608039019" duration="257000" />
+      <workItem from="1539608316908" duration="2663000" />
+      <workItem from="1540575612934" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2957000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22460657" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/ex1/ProfessorEfetivo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/ex1/ProfessorHorista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/ex1/Professor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/ex1/JornadaTrabalho.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding>
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/IdeaProjects/tutorial/src/fizzy/Refrigerante.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/ex2/Caminhao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/ex2/Onibus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="83" selection-start-line="32" selection-start-column="83" selection-end-line="32" selection-end-column="83" />
+          <folding>
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#904#905#0" expanded="true" />
+            <element signature="e#974#975#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/ex2/Veiculo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#860#861#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/ex3/heranca/BemImovel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/ex3/heranca/BemMovel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/ex3/composicao/Especie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/ex3/heranca/Situacao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/ex3/heranca/Especie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/ex3/heranca/BemSemovente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/ex3/heranca/BemPatriomonial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/ex3/composicao/BemPatriomonial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/ex3/composicao/BemImovel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/ex3/composicao/BemMovel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="76" lean-forward="true" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/ex3/composicao/Situacao.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gfviegas/ex3/composicao/BemSemovente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
