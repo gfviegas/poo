@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="library">
+    <output-path>$PROJECT_DIR$/out/artifacts/library</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="com.gfviegas.library.lms.Main" />
+        <option name="description" value="Sistema de Gerenciamento de Bibliotecas" />
+        <option name="height" value="720" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="LMS" />
+        <option name="vendor" value="1.0" />
+        <option name="version" value="" />
+        <option name="width" value="1280" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="library.jar">
+        <element id="module-output" name="library" />
+      </element>
+      <element id="library" level="project" name="com.google.code.gson:gson:2.8.5" />
+      <element id="library" level="project" name="com.jfoenix:jfoenix:9.0.6" />
+    </root>
+  </artifact>
+</component>

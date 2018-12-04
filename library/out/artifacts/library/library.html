@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <SCRIPT src="https://java.com/js/dtjava.js"></SCRIPT><script>
+    function launchApplication(jnlpfile) {
+        dtjava.launch(            {
+                url : 'library.jnlp'
+            },
+            {
+                javafx : '10+'
+            },
+            {}
+        );
+        return false;
+    }
+</script><script>
+    function javafxEmbedcom.gfviegas.library.lms() {
+        dtjava.embed(
+            {
+                id : 'com.gfviegas.library.lms',
+                url : 'library.jnlp',
+                placeholder : 'javafx-app-placeholder',
+                width : '1280',
+                height : '720'
+            },
+            {
+                javafx : '10+'
+            },
+            {}
+        );
+    }
+    
+            <!-- Embed FX application into web page once page is loaded -->
+    dtjava.addOnloadCallback(javafxEmbedcom.gfviegas.library.lms);
+</script>
+    </head>
+    <body>
+        <h2>
+            Test page for <b>Main</b>
+        </h2>
+        <b>Webstart:</b><a href="library.jnlp" onclick="return launchApplication('library.jnlp');">click to launch this app as webstart</a>
+        <br>
+        <hr>
+        <br>
+        
+        <!-- Applet will be inserted here -->
+        <div id="javafx-app-placeholder"></div>
+    </body>
+</html>

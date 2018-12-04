@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.effect.*?>
+<?import com.jfoenix.controls.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="BOTTOM_LEFT" prefHeight="720.0" prefWidth="400.0" style="-fx-background-color: #1A1A1A; -fx-border-color: #2A2A2A; -fx-border-style: none solid none none;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.gfviegas.library.lms.DrawerMenu">
+   <children>
+      <StackPane>
+         <children>
+            <ImageView fitHeight="340.0" fitWidth="400.0" pickOnBounds="true" translateX="2.0" VBox.vgrow="ALWAYS">
+               <image>
+                  <Image url="@../images/bookshelfPane.jpg" />
+               </image>
+               <effect>
+                  <GaussianBlur radius="6.0" />
+               </effect>
+            </ImageView>
+            <VBox alignment="CENTER">
+               <children>
+                  <Label alignment="CENTER" prefHeight="89.0" prefWidth="149.0" text="LMS" textFill="WHITE">
+                     <font>
+                        <Font size="55.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="63.0" layoutY="137.0" text="Library Management System" textFill="WHITE">
+                     <font>
+                        <Font size="11.0" />
+                     </font>
+                  </Label>
+               </children>
+            </VBox>
+         </children>
+      </StackPane>
+      <JFXButton fx:id="btn0" prefHeight="80.0" prefWidth="400.0" ripplerFill="#282828" style="-fx-background-color: #111111; -fx-border-width: 0.2px; -fx-border-color: #666666; -fx-border-style: none none solid none;" text="Home" textFill="#d0d0d0">
+         <font>
+            <Font size="14.0" />
+         </font></JFXButton>
+      <JFXButton fx:id="btn1" layoutX="10.0" layoutY="135.0" prefHeight="80.0" prefWidth="400.0" ripplerFill="#282828" style="-fx-background-color: #111111; -fx-border-width: 0.2px; -fx-border-color: #666666; -fx-border-style: none none solid none;" text="Livros" textFill="#d0d0d0">
+         <font>
+            <Font size="14.0" />
+         </font></JFXButton>
+      <JFXButton fx:id="btn2" layoutX="10.0" layoutY="186.0" prefHeight="80.0" prefWidth="400.0" ripplerFill="#282828" style="-fx-background-color: #111111; -fx-border-width: 0.2px; -fx-border-color: #666666; -fx-border-style: none none solid none;" text="Empréstimos" textFill="#d0d0d0">
+         <font>
+            <Font size="14.0" />
+         </font></JFXButton>
+      <JFXButton fx:id="btn3" layoutX="10.0" layoutY="237.0" prefHeight="80.0" prefWidth="400.0" ripplerFill="#282828" style="-fx-background-color: #111111; -fx-border-width: 0.2px; -fx-border-color: #666666; -fx-border-style: none none solid none;" text="Meu Perfil" textFill="#d0d0d0">
+         <font>
+            <Font size="14.0" />
+         </font></JFXButton>
+      <JFXButton fx:id="btn4" layoutX="10.0" layoutY="288.0" prefHeight="80.0" prefWidth="400.0" ripplerFill="#282828" style="-fx-background-color: #111111;" text="Sair" textFill="#d0d0d0">
+         <font>
+            <Font size="14.0" />
+         </font></JFXButton>
+   </children>
+</VBox>
